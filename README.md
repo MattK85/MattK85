@@ -1,4 +1,4 @@
-<h1>Hi, I'm Mateusz!, <a href="https://www.linkedin.com/in/mateusz-kaminski85">Cybersecurity / IT Professional</a> </h1>
+<h1>Hi, I'm Mateusz!, <a href="https://www.linkedin.com/in/mateusz-kaminski85">Cybersecurity / Junior IT Specialist</a> </h1>
 
 <h2>👨‍💻 Cyber Secuirity / IT Projects:</h2>
 
