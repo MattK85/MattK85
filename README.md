@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cyber Secuirity / IT Projects:</h2>
 
 - <b>CTF Write Ups</b>
-  - [Praciting CTF And Write Ups]([https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/MattK85/CTF/blob/main/README.md))
+  - [Praciting CTF And Write Ups](https://github.com/MattK85/CTF/blob/main/README.md)
 
 <h2>Certifications</h2>
 
