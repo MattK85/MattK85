@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Cyber Secuirity / IT Projects:</h2>
 
-- <b>CTF Write Ups</b>
-  - [Praciting CTF And Write Ups](https://github.com/MattK85/CTF/blob/main/README.md)
+- <b>Promox Virtulization Setup</b>
+  
 
 <h2>Certifications</h2>
 
